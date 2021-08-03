@@ -170,7 +170,7 @@ if [ -e /bin/curl ];then
 	echo -e "$V [✓] Curl Validé$END"
 else
 	echo -e "$R [x] Curl non Validé$END"
-	echo -e "$R [!] Installer Curl et relancez le programme"
+	echo -e "$R [!] Installer Curl et relancez le programme$END"
 	bug=$(($bug + 1))
 fi 
 sleep $SLP
