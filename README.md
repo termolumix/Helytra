@@ -1,4 +1,4 @@
- Helytra V1.0 is a command Shortcut For Kali linux write in bash !
+ Helytra is a command Shortcut For Kali linux write in bash !
 _________________________________________________________________
 
 Including 10 Shortcut:
